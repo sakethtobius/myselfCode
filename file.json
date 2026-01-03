@@ -1,7 +1,5 @@
 {
-  "data": {
-    "ID": "3",
-    "Des": "https://www.baidu.com",
-    "dibu": "1"
-  }
+  "name": "John",
+  "age": 30,
+  "isStudent": false
 }
