@@ -1,7 +1,6 @@
 {
-  "data": {
-    "ID": "3",
-    "Des": "https://www.baidu.com",
-    "dibu": "1"
-  }
+"serverStatus": "normal",
+    "serverTime": "woganjuexin",
+    "browser": "woyaodakai", 
+    "serverName": "https://www.baidu.com/"
 }
